@@ -24,10 +24,10 @@
 
 ## Keywords
 Chatbot, GPT, Telegram Bot, Lightweight Chatbot, GPT-3.5 Turbo, GPT-4, Raspberry Pi, Minimalistic Chatbot, Accurate Cost Calculation, Fast and Efficient, Chat History Support
-№# Пример работы
+## Презентация
 https://docs.google.com/presentation/d/1PDFKHsPj2RpJ7QyohN5FJHzR-wLvE3mnsgSrllg5Ois/edit#slide=id.p
 
-Пример работы
+## Пример работы
 https://t.me/Health_Assistant_Medic_Bot
 
 
